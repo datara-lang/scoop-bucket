@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/datara-lang/datara/releases/download/v1.4.1/forgen-windows-x64.zip",
-      "hash": "55f07ba7f240411379bae70313b828f115899cf454efebaaecd1f45941c32cdc",
+      "hash": "8ab0200e5ec433df05f4fd9ca09693f1a33aee763afb15b0c852eb54caedcb20",
       "bin": [
         "forgen.exe",
         [
